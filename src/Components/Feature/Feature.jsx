@@ -75,7 +75,7 @@ const Feature = () => {
               </h4>
               <p class="mt-2 text-gray-600">
                 This is an excellent option to Rectify our flaws and leads to
-                perfection.
+                perfection by Tata.
               </p>
               <a
                 href="/chatbot"
